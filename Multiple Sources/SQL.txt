@@ -1,0 +1,13 @@
+==> server
+pond.highline.edu
+
+==> Database
+boomerang
+
+
+
+==> Username
+excelisfun
+
+==> password
+ExcelIsFun!
